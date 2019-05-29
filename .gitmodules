@@ -1,0 +1,3 @@
+[submodule "odl-multigrid"]
+	path = odl-multigrid
+	url = https://github.com/kohr-h/odl-multigrid
